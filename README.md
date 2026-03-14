@@ -1,6 +1,6 @@
 ![alt text](https://github.com/dhruvxo/first-repo/blob/d1f66a36d50193cab833ba0cc5338cb9ef31259b/header.png)
 <h1 align="center"></h1>
-<h3 align="center">Minimalist | Developer</h3>
+<h3 align="center">Minimalist Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

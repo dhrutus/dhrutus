@@ -5,10 +5,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dhruv-bhat-937b54253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv bhat" height="30" width="40" /></a>
-<a href="https://instagram.com/dhrvxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhrvxo" height="30" width="40" /></a>
+<a href="https://instagram.com/dhruvmbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvmbhat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages I have used the most:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvxo&show_icons=true&locale=en&layout=compact" alt="dhruvxo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhrutus&show_icons=true&locale=en&layout=compact" alt="dhrutus" /></p>
 
